@@ -2,7 +2,7 @@
 TMIT's semi-final solution. Co-authored by: [andreyovsk](https://github.com/andreyovsk)
 
 # What is IDAO?
-IDAO is an International Data Analysis Olympiad founded by HSE and Yandex. The task of the semi-final round of the 2022 contest can be found below. Our team was 22nd out of 100 teams in the students' competition and was promoted to the final round (final round was cancelled). 
+IDAO is an International Data Analysis Olympiad founded by HSE and Yandex. The task of the semi-final round of the 2022 contest can be found below. Our team was 22nd out of 100 teams in the semi-final round (students' competition) and was promoted to the final round (final round was cancelled). 
 
 # Problem statement
 ![](https://i.ibb.co/RzWkkmN/image.png)
